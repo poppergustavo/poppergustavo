@@ -5,7 +5,8 @@
 <div style="display: inline-block"><br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="100" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="50"/>
-    <i class="devicon-github-original"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/>
+
 </div>
   
 ##
