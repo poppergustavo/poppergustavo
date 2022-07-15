@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div style="display: inline-block"><br>
-    <i font-size="100px" class="devicon-oracle-original"></i>
+    <i font-size="10px" class="devicon-oracle-original"></i>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
   
