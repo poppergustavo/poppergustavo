@@ -1,5 +1,7 @@
 ##
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 <div style="display: inline-block"><br>
     <i class="devicon-oracle-original"></i>
 </div>
