@@ -1,3 +1,12 @@
+##
+
+<div style="display: inline-block"><br>
+    <i class="devicon-oracle-original"></i>
+</div>
+  
+##
+
+
 ### Hi there 👋
 
 <!--
