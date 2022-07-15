@@ -17,3 +17,9 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
 </div>
   
 ##
+
+My social media:
+
+<div style="display: inline-block"><br>
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+</div>
