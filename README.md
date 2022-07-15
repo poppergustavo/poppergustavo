@@ -18,8 +18,10 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
   
 ##
 
-My social media:
+Connect with me on LinkeIn:
 
 <div style="display: inline-block"><br>
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+    <a href="https://www.linkedin.com/in/gustavopopper/"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50"/>
+    </a>
 </div>
