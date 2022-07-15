@@ -4,7 +4,7 @@
 
 <div style="display: inline-block"><br>
     <i font-size="10px" class="devicon-oracle-original"></i>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="100" height="50" />
 </div>
   
 ##
