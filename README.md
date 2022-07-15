@@ -21,5 +21,5 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
 Connect with me on LinkeIn:
 
 <div style="display: inline-block"><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" href="https://www.linkedin.com/in/gustavopopper/"/>
+    <img href="https://www.linkedin.com/in/gustavopopper/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" />
 </div>
