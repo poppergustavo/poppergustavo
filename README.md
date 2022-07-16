@@ -24,39 +24,3 @@ Connect with me on LinkeIn:
 <div style="display: inline-block"><br>
     <a href="https://www.linkedin.com/in/gustavopopper/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" /></a>
 </div>
-
-<?php
-
-namespace AshBaker;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
