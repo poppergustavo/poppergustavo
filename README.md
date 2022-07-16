@@ -2,7 +2,7 @@
 
 My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL PL/SQL, Java, Delphi and I am currently studying <strong>Javascript</strong>.
 
-- 📫 How to reach me: gustavo.popper@philips.com
+- 📫 My E-mail: gustavo.popper@philips.com
 
 ##
 
