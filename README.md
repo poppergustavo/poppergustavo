@@ -13,6 +13,7 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="100" height="50"/></a>
     <a href="https://www.java.com/pt-BR/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100" height="50"/></a>
     <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="100" height="50"/></a>
+    <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="50"/></a>
     <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
   
