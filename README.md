@@ -1,6 +1,6 @@
 ### Welcome to my Profile.
 
-My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL PL/SQL, Java, Delphi and I am currently studying <strong>Javascript</strong>.
+My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL PL/SQL, Java, Delphi, Git and GitHub. I'm currently studying <strong>Javascript</strong>.
 
 - 📫 My E-mail: gustavo.popper@philips.com
 
