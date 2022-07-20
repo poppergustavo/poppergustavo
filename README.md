@@ -28,4 +28,4 @@ Connect with me on LinkeIn or fork me on GitHub:
 
 ##
 
-<img src="https://media.giphy.com/media/JVGLHEuzbVviw/giphy.gif" alt="funny GIF" width="100%">
+<img src="https://knowyourmeme.com/photos/945952-perfectly-looped-gifs" alt="funny GIF" width="100%">
