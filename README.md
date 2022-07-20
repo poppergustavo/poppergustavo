@@ -28,4 +28,4 @@ Connect with me on LinkeIn or fork me on GitHub:
 
 ##
 
-<img src="https://i.kym-cdn.com/photos/images/original/000/945/952/283.gif" alt="funny GIF" width="100%">
+<img src="https://i.kym-cdn.com/photos/images/original/000/945/952/283.gif" alt="funny GIF" width="30%">
