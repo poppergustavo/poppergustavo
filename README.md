@@ -28,4 +28,4 @@ Connect with me on LinkeIn or fork me on GitHub:
 
 ##
 
-<a><img src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif/" alt="funny GIF" width="30%"></a>
+<a><img src="https://i.pinimg.com/originals/80/2f/6b/802f6b55de54cec2eeacc6df2d7cb464.gif" width="30%"></a>
