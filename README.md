@@ -2,7 +2,7 @@
 
 My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL PL/SQL, Java, Delphi, Git and GitHub. I'm currently studying <strong>Javascript</strong>.
 
-- 📫 My E-mail: gustavo.popper@philips.com
+- 📫 My E-mail: gustavo.popper@philips.com <a><img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="5%"></a>
 
 ##
 
@@ -25,7 +25,3 @@ Connect with me on LinkeIn or fork me on GitHub:
     <a href="https://www.linkedin.com/in/gustavopopper/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" /></a>
     <a href="https://github.com/poppergustavo/ProjectX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
-
-##
-
-<a><img src="https://i.pinimg.com/originals/fe/61/dc/fe61dc2b7ef08a538b906eced7fa5cb5.gif" width="10%"></a>
