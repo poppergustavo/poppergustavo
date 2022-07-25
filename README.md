@@ -1,4 +1,4 @@
-<p style="color:blue"><strong> Welcome to my Profile. </strong></p>
+<h1><strong> Welcome to my Profile. </strong></h1>
 My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL PL/SQL, Java, Delphi, Git and GitHub. I'm currently studying <strong>Javascript</strong>.
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
