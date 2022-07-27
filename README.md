@@ -14,6 +14,7 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
 </div>
 
 ##
+##
 
 <p>Connect with me on LinkeIn or fork me on GitHub:</p>
 
