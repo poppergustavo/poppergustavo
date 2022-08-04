@@ -43,7 +43,3 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
   
   
   
-  
-  
-  
-  
