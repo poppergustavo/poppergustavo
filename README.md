@@ -12,7 +12,9 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="50"/></a>
     <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
+
 ##
+
 <h3>Connect with me on LinkeIn or fork me on Github:</h3>
 
 <div>
