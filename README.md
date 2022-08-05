@@ -12,13 +12,10 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100" height="50"/></a>
     <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
-
 ##
-
-<h3>Connect with me on LinkeIn, fork me on GitHub or contact me by Skype:</h3>
+<h3>Connect with me on LinkeIn or fork me on Github:</h3>
 
 <div>
     <a href="https://www.linkedin.com/in/gustavopopper/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" /></a>
     <a href="https://github.com/poppergustavo/ProjectX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
-    <a href="https://www.freepnglogos.com/uploads/skype-logo-png/skype-logo-vector-icon-template-clipart-download-0.png" width="100" height="50"/></a>
 </div>
