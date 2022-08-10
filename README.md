@@ -22,4 +22,4 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://github.com/poppergustavo/ProjectX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
 
-<a href="https://thumbs.gfycat.com/CompleteGraciousAndeancondor-size_restricted.gif">
+<a img="https://thumbs.gfycat.com/CompleteGraciousAndeancondor-size_restricted.gif">
