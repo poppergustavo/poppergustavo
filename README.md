@@ -1,4 +1,3 @@
-<div style="padding: 5px; margin: 2px; border: 1px solid red;">
 <h1><strong> Welcome to my Profile. </strong></h1>
 
 My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL, Java, Delphi, Git and GitHub. I'm currently studying <strong>Javascript</strong> and web development.
@@ -22,4 +21,5 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://www.linkedin.com/in/gustavopopper/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100" height="50" /></a>
     <a href="https://github.com/poppergustavo/ProjectX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100" height="50"/></a>
 </div>
-</div>
+
+<a href="https://thumbs.gfycat.com/CompleteGraciousAndeancondor-size_restricted.gif">
