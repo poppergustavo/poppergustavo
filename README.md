@@ -1,4 +1,4 @@
-<div style="background-color: #000;">
+<div style="padding: 5px; margin: 2px; border: 1px solid red;">
 <h1><strong> Welcome to my Profile. </strong></h1>
 
 My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems Analysis and Development. I have knowledge in HTML5, ORACLE SQL, Java, Delphi, Git and GitHub. I'm currently studying <strong>Javascript</strong> and web development.
