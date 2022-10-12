@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://media.tenor.com/GiO4XNKti44AAAAd/retrowave-synthwave.gif" height="30%" text-align="center">
+<img src="https://media.tenor.com/Pw1pJ85bumwAAAAM/mortal-kombat-scorpion.gif" height="30%" text-align="center">
 
 <h1 style="text-decoration: underline;"><strong> Welcome to my Profile. </strong></h1>
 
