@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://c.tenor.com/-oEtuQDGYPEAAAAd/street-fighter-sf2.gif" width="100%" height="50%">
+<img src="https://c.tenor.com/-oEtuQDGYPEAAAAd/street-fighter-sf2.gif" width="100%" height="50%" align="center">
 
 <h1 style="text-decoration: underline;"><strong> Welcome to my Profile. </strong></h1>
 
