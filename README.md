@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1210.gif" height="25%" text-align="center">
+<img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-1210.gif" text-align="center">
 
 <h1 style="text-decoration: underline;"><strong> Welcome to my Profile. </strong></h1>
 
