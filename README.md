@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://http.cat/102" widht="30%" text-align="center">
+<img src="https://http.cat/102" widht="10%" text-align="center">
 
 <h1 style="text-decoration: underline;"><strong> Welcome to my Profile. </strong></h1>
 
