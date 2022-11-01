@@ -22,5 +22,5 @@ My name is <strong>Gustavo Pöpper</strong> and I am currently studying Systems 
     <a href="https://www.linkedin.com/in/gustavopopper/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="100"         height="50" /></a>
     <a href="https://github.com/poppergustavo/ProjectX"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="100"     height="50"/></a>
 </div>
-
+<br><br>
 <img src="https://c.tenor.com/04C7U4HtDXIAAAAd/there-goes-ol-dick-he-died-as-he-lived.gif">
