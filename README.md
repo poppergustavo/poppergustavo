@@ -18,15 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </p>
 
----
-
-### 📚 Currently Learning
-<p align="center">
-  JavaScript & Web Development
-</p>
-
----
-
 ### 🌐 Connect with me
 
 <p align="center">
@@ -47,4 +38,11 @@
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;Always+Learning+🚀">
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
