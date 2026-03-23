@@ -5,10 +5,23 @@
 
 ---
 
-<!-- INFO + STATS LADO A LADO -->
+<!-- STATS (DARK / LIGHT AUTO) -->
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=tokyonight&hide_border=true"/>
+  </picture>
 </p>
 
 <p align="center">
@@ -47,7 +60,13 @@
 ### ⚡ Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poppergustavo&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=poppergustavo&theme=github-light&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=poppergustavo&theme=tokyo-night&hide_border=true"/>
+  </picture>
 </p>
 
 ---
@@ -55,7 +74,13 @@
 ### 🐱 Contributions Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source 
+      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
@@ -63,5 +88,11 @@
 ### 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=poppergustavo&theme=tokyonight&hide_border=true&background=0d1117"/>
+  <picture>
+    <source 
+      srcset="https://streak-stats.demolab.com?user=poppergustavo&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://streak-stats.demolab.com?user=poppergustavo&theme=tokyonight&hide_border=true"/>
+  </picture>
 </p>
