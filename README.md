@@ -1,13 +1,19 @@
-<!-- TYPING ANIMATION HEADER -->
+<!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+Profile;Gustavo+Pöpper;Support+Analyst+%26+Dev+Student;Always+Learning+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=700&lines=🚀+Welcome+to+my+Profile;Gustavo+Pöpper;Support+Analyst+%26+Dev+Student;Always+Learning+🚀">
 </p>
 
 ---
 
+<!-- INFO + STATS LADO A LADO -->
 <p align="center">
-  <b>Gustavo Pöpper</b> 👨‍💻 <br>
-  Support Analyst and Development Student
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <b>Gustavo Pöpper</b> 👨‍💻 &nbsp;&nbsp;|&nbsp;&nbsp;
+  Support Analyst & Dev Student
 </p>
 
 ---
@@ -38,7 +44,7 @@
 
 ---
 
-### ⚡ Activity Animation
+### ⚡ Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poppergustavo&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
@@ -46,20 +52,13 @@
 
 ---
 
-### ⚡ 
+### 🐱 Contributions Animation
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;Always+Learning+🚀">
-</p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=poppergustavo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poppergustavo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
+---
 
 ### 🔥 Streak
 
