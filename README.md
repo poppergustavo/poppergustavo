@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Gustavo Pöpper</b> 👨‍💻 <br>
-  Systems Analysis and Development Student
+  Support Analyst and Development Student
 </p>
 
 ---
@@ -41,8 +41,10 @@
 
 ---
 
-### ⚡ Fun Animation
-
+### ⚡ 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Java+Developer;Always+Learning+🚀">
 </p>
